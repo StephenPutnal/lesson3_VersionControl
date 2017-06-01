@@ -4,16 +4,19 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+June 1st, 2017
 
 ## Student Name:  
-(First and Last Name)
+Stephen Putnal
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 3 teaches us to connect our Cloud9 workspace to our GitHub repository.
+
+##View Project
+https://preview.c9users.io/sputnal164/putnal_lesson3_versioncontrol
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Initialize a repository
+2. Git add, adds the repository to a staging area.
+3. Git commit, officially moves the repository to the working area so that you can edit your code. 
 
